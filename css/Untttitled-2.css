@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;padding:0;font-family:Microsoft YaHei;
+	}
+ul,li{
+	list-style:none;
+	}
+a{
+	text-decoration:none; color:#000;
+	}
+img{
+	border:none;vertical-align:middle;
+	}
+.dbj{
+	width:auto; height: auto;
+	}
+.dbj .nav{
+	width:1000px; height:100px; background: #fff; margin:0 auto; overflow:hidden;}
+.nav img{
+line-height:100px; margin-top:30px; float: left;}
+
+.nav li{
+	float:left; width:112px; height:46px; line-height:46px; text-align:center;font-size:16px;
+	 font-weight:bolder;margin-top:30px;}
+.current{
+	font-size:18px;color:#b88a72; border-bottom:3px solid #b88a72;}
+.sy{ margin-left:310px;}
+a:hover li{
+	font-size:18px;color:#b88a72; /*border-bottom:3px solid #b88a72;*/}
+.dbj .banner{
+	width:auto;height:450px; background:#ddd8d8;}
+.dbj .banner .b-t{
+	width:1066px; height:450px; margin:0 auto;}
+.nav1{
+	overflow:hidden; width:1000px; height:auto; margin:0 auto;}
+.nav1 li{
+	float:left; width:200px; height:44px; line-height:44px; text-align:center; font-size:16px; margin-top:30px;
+	margin-bottom:30px;}
+.nav1 .sp{
+	font-size:18px; color:#000; border-bottom:2px solid #ccc; margin-left:100px;}
+.nav1 li:hover{
+	font-size:18px; color:#000; border-bottom:2px solid  #CCC;}
+.lyq,.dj,.dj2,.fy{
+	width:1000px; height:auto;margin:0 auto;}
+.lyq{
+	margin-bottom:40px;}
+.pic5{
+	margin-left:70px;}
+.pic5,.pic6{
+	margin-right:70px;}
+.pic9{
+	 margin-right:0px;}
+.tp2{
+	width:1000px; height:auto;margin:0 auto; margin-top:30px;}
+.pic7{
+	margin-right:55px;}
+.pic8{
+	margin-left:50px;margin-right:60px; }
+.pic10,.pic16{
+	margin-left:370px; margin-right:40px; margin-bottom:10px;}
+.pic11{
+	margin-bottom:10px;}
+.pic12{
+	margin-left:170px; margin-right:40px; margin-bottom:10px;}
+.pic13,.pic14,.pic15{
+	margin-right:40px; margin-bottom:10px;}
+.dingbu{ width:1000px;height:50px; margin:0 auto; margin-top:40px;margin-bottom:10px;}
+.dingbu li{
+	float:left; width:120px; height:46px; line-height:46px; text-align:center;font-size:14px; margin-left:50px;
+	 }
+.sousuo{
+	margin-top:30px; margin-left:30px; }
+.dingbu ul a li:hover{
+	color:#b88a72; height:46px;font-size:16px; line-height:46px;border-bottom:3px solid #b88a72;
+	font-weight:bolder;}
+.current1 li{
+	color: #000;margin-left:70px;}
